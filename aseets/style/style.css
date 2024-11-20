@@ -1,0 +1,11 @@
+.bg-img{
+	background-image: url(../img/img.jpeg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+
+}
+.bg-glases{
+	background-color: hsla(0, 0%, 100%, 0.3);
+	backdrop-filter: ;
+}
